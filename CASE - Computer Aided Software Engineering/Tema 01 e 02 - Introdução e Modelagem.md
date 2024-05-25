@@ -80,12 +80,9 @@ Representação de Classe no UML:
 
 ### Diagrama de casos de uso
 • É o diagrama mais geral da UML.
-• Representa o sistema no ponto de vista do usuário, ou seja,
-de fora para dentro.
-• Um caso de uso, representa uma ação a ser realizada no
-sistema de software.
-• Caso de uso é a representação de uma funcionalidade do
-sistema
+• Representa o sistema no ponto de vista do usuário, ou seja, de fora para dentro.
+• Um caso de uso, representa uma ação a ser realizada no sistema de software.
+• Caso de uso é a representação de uma funcionalidade do sistema
 
 ### Diagrama Sequencial
 • É uma representação dinâmica do sistema a ser desenvolvido, ou seja, o sistema em execução.  
