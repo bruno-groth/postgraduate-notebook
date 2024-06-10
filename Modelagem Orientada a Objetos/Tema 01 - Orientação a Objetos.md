@@ -69,3 +69,43 @@ Primeiro Diagrama é de Casos de Uso
 Relacionar os casos de uso em um conjunto constituindo um modelo de use cases
 
 Um conjunto de Diagramas de Classes constituem um Modelo de Classes
+
+# Bloco 3
+
+## Conceito de Objeto
+Qualquer coisa concreta ou abstrata que pode ser descrito por suas características ou comportamentos.  
+
+Todo objeto deve ter uma identificação.   
+
+Uma **classe** representa um grupo de objetos do mundo real que possui tipos de características e de comportamento em comum. 
+
+![alt text](objeto.png)
+
+### Estado:
+Representação de um objeto em um determinado instante de tempo
+
+### Encapsulamento:
+Reunião de todos os atributos e métodos em uma única estrutura (classe) de forma protegida.
+
+### Herança:
+ (aka generalização) propriedade pela qual uma classe pode **herdar atributos e operações de uma superclasse** que generaliza as características e comportamentos comuns de grupos de objetos.
+
+![alt text](heranca.png)
+
+### Polimorfismo:
+O mesmo método ("operação") pode atuar de diversas formas em classes distintas. Um **método polimórfico possui o mesmo nome em duas classes distintas, mas a implementação é diferente**.
+![alt text](polimorfismo.png)
+
+### Abstração:
+concentração dos aspectos importantes e relevantes dos objetos, considerando o contexto
+analisado e o domínio do sistema.
+
+### EXEMPLOS DE MODELAGEM
+* DICA:  A leitura de herança pode ser feita como "menor É UM TIPO DE maior" ou "maior ENGLOBA menor".
+* Essa frase pode também ser usada como pergunta para validar a herança das classes (ex: artigo É UM TIPO DE trabalho?).
+
+![alt text](zExemplo1.png)
+
+Pessoa 
+
+![alt text](zExemplo2.png)
